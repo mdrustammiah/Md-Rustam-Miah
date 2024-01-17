@@ -1,7 +1,7 @@
 <img src="https://github.com/mdrustammiah/mdrustammiah/blob/main/Blue%20&%20Yellow%20Modern%20Digital%20Marketing%20Linkedin%20Banner.png?raw=true" width="100%" />
 <h1 align="center">Hi 👋, I'm Md Rustam Miah</h1>
-<h3 align="center">Front-end Developer With React JS</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/mdrustammiah/&label=Profile%20views&color=0e75b6&style=flat" alt="https://github.com/mdrustammiah/" /> </p>
+<h3 align="center">Front-End Developer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/mdrustammiah/&label=Profile%20views&color=0e75b6&style=flat" alt="https://github.com/mdrustammiah/mdrustammiah/" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=https://github.com/mdrustammiah/&theme=" alt="https://github.com/mdrustammiah/" /></a> </p>
 
