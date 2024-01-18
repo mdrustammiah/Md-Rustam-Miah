@@ -65,9 +65,9 @@
 
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/mdrustammiah/&layout=compact&theme=" alt=https://github.com/mdrustammiah/ />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrustammiah/&layout=compact&theme=" alt=mdrustammiah/ />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=https://github.com/mdrustammiah/&show_icons=true&locale=en&theme=" alt="https://github.com/mdrustammiah/" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=mdrustammiah/&show_icons=true&locale=en&theme=" alt="mdrustammiah/" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/mdrustammiah/&theme=" alt="https://github.com/mdrustammiah/" /></p>
 
