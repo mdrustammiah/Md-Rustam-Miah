@@ -27,12 +27,11 @@
 <!-- Profile View End -->
 <!-- Trophy Start -->
 <div align="center">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=mdrustammiah" alt="mdrustammiah/"
-        width="70%" />
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=mdrustammiah" alt="mdrustammiah/" width="100%"/>
 </div>
 <!-- Trophy End -->
 <!-- Bar Start -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 <!-- Bar End -->
 <!-- Badge Start -->
 <!-- Badge Item One -->
@@ -143,9 +142,6 @@
         </a>
 </div>
 <!-- Connect with me End  -->
-<!-- Bar Start -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-<!-- Bar End -->
 <!-- Languages and Tools Start -->
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
@@ -199,6 +195,9 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdrustammiah&" alt="mdrustammiah" />
 </div>
 <!-- Stars End -->
+<!-- Bar Start -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<!-- Bar End -->
 <!-- Statistics Start -->
 <h3 align="center">Statistics:</h3>
 <div align="center">
@@ -236,6 +235,9 @@
 <h3 align="left">Activity Graph:</h3>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mdrustammiah&theme=default" />
 <!-- Activity Graph End -->
+<!-- Bar Start -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<!-- Bar End -->
 <!-- Banner Two Start -->
 <img src="https://github.com/mdrustammiah/mdrustammiah/blob/main/2.png?raw=true" />
 <!-- Banner Two End -->
