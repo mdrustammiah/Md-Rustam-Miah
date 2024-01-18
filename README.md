@@ -1,20 +1,22 @@
-<a href="https://mdrustammiah.xyz/" target="_blank"><img src="https://github.com/mdrustammiah/mdrustammiah/blob/main/1.png?raw=true" width="100%" /><a/>
+
+<a href="https://mdrustammiah.xyz/" target="_blank"><img src="https://github.com/mdrustammiah/mdrustammiah/blob/main/1.png?raw=true" width="100%" /></a>
 
 <h1 align="center">Hi 👋, I'm Md Rustam Miah</h1>
 
 <h3 align="center">Front-End Developer</h3>
 
-
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdrustammiah&label=Profile%20views&color=0e75b6&style=flat" alt="mdrustammiah/" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdrustammiah" alt="mdrustammiah/" /></a> </p>
+<p align="left" margin-right-5px> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdrustammiah" alt="mdrustammiah/" /></a> </p>
+
+
+
 
 
 - 🔭 I’m currently working on [Orebi](https://github.com/mdrustammiah/orebi)
+- 
 - 👯 I’m looking to collaborate on [Java_Script_Grade_Calculator](https://github.com/mdrustammiah/Java_Script_Grade_Calculator)
+- 
 - 🤝 I’m looking for help with [Waxom](https://github.com/mdrustammiah/waxom_full_page_1)
 - 🌱 I’m currently learning **Next JS**
 - 💬 Ask me about **HTML 5,CSS 3,React JS,Vite etc**
