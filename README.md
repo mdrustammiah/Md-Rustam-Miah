@@ -192,7 +192,7 @@
 <!-- Bar End -->
 <!-- Stars Item Three -->
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdrustammiah" alt="mdrustammiah" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdrustammiah&" alt="mdrustammiah" />
 </div>
 <!-- Stars End -->
 <!-- Bar Start -->
