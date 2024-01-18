@@ -192,7 +192,7 @@
 <!-- Bar End -->
 <!-- Stars Item Three -->
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdrustammiah&" alt="mdrustammiah" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdrustammiah" alt="mdrustammiah" />
 </div>
 <!-- Stars End -->
 <!-- Bar Start -->
@@ -203,16 +203,13 @@
 <div align="center">
     <!-- Statistics Item One -->
     <img align="center"
-        src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdrustammiah&theme=2077"
-        height="180em" />
+        src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdrustammiah&theme=2077"/>
         <!-- Statistics Item Two -->
     <img align="center"
-        src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdrustammiah&theme=2077"
-        height="180em" />
+        src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdrustammiah&theme=2077"/>
         <!-- Statistics Item Three -->
     <img align="center"
-        src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdrustammiah&theme=2077"
-        height="180em" />
+        src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdrustammiah&theme=2077"/>
 </div>
 <!-- Bar Start -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
