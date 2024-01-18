@@ -1,4 +1,4 @@
-<img src="https://github.com/mdrustammiah/mdrustammiah/blob/main/Blue%20&%20Yellow%20Modern%20Digital%20Marketing%20Linkedin%20Banner.png?raw=true" width="100%" />
+<img src="https://github.com/mdrustammiah/mdrustammiah/blob/main/1.png?raw=true" width="100%" />
 <h1 align="center">Hi 👋, I'm Md Rustam Miah</h1>
 <h3 align="center">Front-End Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdrustammiah&label=Profile%20views&color=0e75b6&style=flat" alt="mdrustammiah/" /> </p>
@@ -83,4 +83,5 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mdrustammiah&theme=default"/>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+<img src="https://github.com/mdrustammiah/mdrustammiah/blob/main/2.png?raw=true" />
