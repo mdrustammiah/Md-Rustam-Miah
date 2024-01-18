@@ -1,7 +1,12 @@
-<img src="https://github.com/mdrustammiah/mdrustammiah/blob/main/1.png?raw=true" width="100%" />
+<a href="https://mdrustammiah.xyz/" target="_blank"><img src="https://github.com/mdrustammiah/mdrustammiah/blob/main/1.png?raw=true" width="100%" /><a/>
+
 <h1 align="center">Hi 👋, I'm Md Rustam Miah</h1>
+
 <h3 align="center">Front-End Developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdrustammiah&label=Profile%20views&color=0e75b6&style=flat" alt="mdrustammiah/" /> </p>
+
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdrustammiah&label=Profile%20views&color=0e75b6&style=flat" alt="mdrustammiah/" /> </p>
 
