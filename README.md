@@ -197,13 +197,13 @@
 <h3 align="center">Statistics:</h3>
 <div align="center">
     <!-- Statistics Item One -->
-    <img align="center"
+    <img align="left"
         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdrustammiah&theme=2077"/>
         <!-- Statistics Item Two -->
     <img align="center"
         src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdrustammiah&theme=2077"/>
         <!-- Statistics Item Three -->
-    <img align="center"
+    <img align="right"
         src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdrustammiah&theme=2077"/>
 </div>
 <!-- Bar Start -->
