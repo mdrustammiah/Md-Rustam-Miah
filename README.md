@@ -38,47 +38,42 @@
 <div align="left">
     <a href="#" target="_blank">
         <img
-            src="https://img.shields.io/badge/-I’m currently working on-%23333?style=for-the-badge&logo=&logoColor=white" /><img
-            src="https://img.shields.io/badge/-React App Development-E4405F?style=for-the-badge" />
+            src="https://img.shields.io/badge/-I’m currently working on : React App Development-%23333?style=for-the-badge" width="70%" />
     </a>
 </div>
 <!-- Badge Item Two -->
 <div align="right">
     <a href="#" target="_blank">
-        <img
-            src="https://img.shields.io/badge/-All of my projects are available at-%23333?style=for-the-badge&logo=&logoColor=white" /><img
-            src="https://img.shields.io/badge/-Go Website-E4405F?style=for-the-badge" />
+    <img 
+        src="https://img.shields.io/badge/-All of my projects are available at : Go Website-E4405F?style=for-the-badge" width="70%" />
     </a>
 </div>
 <!-- Badge Item Three -->
 <div align="left">
     <a href="#" target="_blank">
         <img
-            src="https://img.shields.io/badge/-Know about my experiences-%23333?style=for-the-badge&logo=&logoColor=white" /><img
-            src="https://img.shields.io/badge/-Go to My Website-E4405F?style=for-the-badge" />
+            src="https://img.shields.io/badge/-Know about my experiences : Go to My Website-%23333?style=for-the-badge" width="70%" />
     </a>
 </div>
 <!-- Badge Item Four -->
 <div align="right">
     <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/-Ask me about-%23333?style=for-the-badge&logo=&logoColor=white" /><img
-            src="https://img.shields.io/badge/-HTML 5,CSS 3,React JS,Vite etc-E4405F?style=for-the-badge" />
+        <img
+            src="https://img.shields.io/badge/-Ask me about : HTML 5,CSS 3,React JS,Vite etc-E4405F?style=for-the-badge"  width="70%"/>
     </a>
 </div>
 <!-- Badge Item Five -->
 <div align="left">
     <a href="#" target="_blank">
         <img
-            src="https://img.shields.io/badge/-Know about my Other Services-%23333?style=for-the-badge&logo=&logoColor=white" /><img
-            src="https://img.shields.io/badge/-Go to My Website-E4405F?style=for-the-badge" />
+            src="https://img.shields.io/badge/-Know about my Other Services : Go to My Website-%23333?style=for-the-badge&logo=&logoColor=white" width="70%" />
     </a>
 </div>
 <!-- Badge Item Six -->
 <div align="right">
     <a href="#" target="_blank">
         <img
-            src="https://img.shields.io/badge/-I’m currently learning-%23333?style=for-the-badge&logo=&logoColor=white" /><img
-            src="https://img.shields.io/badge/-Next JS-E4405F?style=for-the-badge" />
+            src="https://img.shields.io/badge/-I’m currently learning : Next JS-E4405F?style=for-the-badge" width="70%" />
     </a>
 </div>
 <!-- Badge End -->
