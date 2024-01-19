@@ -195,15 +195,13 @@
 <!-- Bar End -->
 <!-- Statistics Start -->
 <h3 align="center">Statistics:</h3>
-<div >
-    <!-- Statistics Item One -->
-    <img align="left"
+<!-- Statistics Item One -->
+<div align="center">
+    <img
         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdrustammiah&theme=2077"/>
-        <!-- Statistics Item Two -->
-    <img align="left"
+    <img
         src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdrustammiah&theme=2077"/>
-        <!-- Statistics Item Three -->
-    <img align="left"
+    <img 
         src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdrustammiah&theme=2077"/>
 </div>
 <!-- Bar Start -->
@@ -211,11 +209,11 @@
 <!-- Bar End -->
 <!-- Statistics Item Four -->
 <div align="center">
-    <img align="center"
+    <img 
         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdrustammiah&theme=2077"
         height="180em" />
         <!-- Statistics Item Five -->
-    <img align="center"
+    <img 
         src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdrustammiah&theme=2077"
         height="180em" />
 </div>
