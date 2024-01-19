@@ -1,3 +1,6 @@
+<!-- Bar Start -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<!-- Bar End -->
 <!-- Banner One Start -->
 <a href="https://mdrustammiah.xyz/" target="_blank">
     <img src="https://github.com/mdrustammiah/mdrustammiah/blob/main/1.png?raw=true" width="100%" />
@@ -10,9 +13,6 @@
 <h1 align="center">Hi 👋, I'm Md Rustam Miah</h1>
 <!-- Name End -->
 <!-- Name Start -->
-<!-- Bar Start -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-<!-- Bar End -->
 <!-- Profession Start -->
 <h3 align="center">Front-End Developer</h3>
 <!-- Profession End -->
@@ -198,10 +198,11 @@
     <!-- Statistics Item Four -->
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdrustammiah&theme=2077" />
 </div>
-<div align="center">
-        <!-- Statistics Item Five -->
+<!-- Bar Start -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<!-- Bar End -->
+<!-- Statistics Item Five -->
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdrustammiah&theme=2077"/>
-</div>
 <!-- Statistics End -->
 <!-- Bar Start -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
@@ -216,3 +217,6 @@
 <!-- Banner Two Start -->
 <img src="https://github.com/mdrustammiah/mdrustammiah/blob/main/2.png?raw=true" />
 <!-- Banner Two End -->
+<!-- Bar Start -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<!-- Bar End -->
