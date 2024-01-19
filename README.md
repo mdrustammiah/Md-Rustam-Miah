@@ -195,7 +195,7 @@
 <!-- Bar End -->
 <!-- Statistics Start -->
 <h3 align="center">Statistics:</h3>
-<div align="center">
+<div >
     <!-- Statistics Item One -->
     <img align="left"
         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdrustammiah&theme=2077"/>
