@@ -73,7 +73,7 @@
 <div align="right">
     <a href="#" target="_blank">
         <img
-            src="https://img.shields.io/badge/-I’m currently learning : Next JS-E4405F?style=for-the-badge" width="70%" />
+            src="https://img.shields.io/badge/-I’m currently learning : Next JS,Java Script-E4405F?style=for-the-badge" width="70%" />
     </a>
 </div>
 <!-- Badge End -->
