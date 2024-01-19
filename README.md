@@ -177,7 +177,7 @@
 <!-- Stars Start -->
 <h3 align="left">Stars:</h3>
 <!-- Stars Item One & Two -->
-<div>
+<div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrustammiah&layout=compact&theme=" alt=mdrustammiah />
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdrustammiah&show_icons=true&locale=en&theme=" alt="mdrustammiah"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdrustammiah" alt="mdrustammiah" />
@@ -188,27 +188,19 @@
 <!-- Bar End -->
 <!-- Statistics Start -->
 <h3 align="center">Statistics:</h3>
-<!-- Statistics Item One -->
 <div align="center">
-    <img
-        src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdrustammiah&theme=2077"/>
-    <img
-        src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdrustammiah&theme=2077"/>
-    <img 
-        src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdrustammiah&theme=2077"/>
+    <!-- Statistics Item One -->
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdrustammiah&theme=2077"/>
+    <!-- Statistics Item Two -->
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdrustammiah&theme=2077"/>
+    <!-- Statistics Item Three -->
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdrustammiah&theme=2077"/>
+    <!-- Statistics Item Four -->
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdrustammiah&theme=2077" />
 </div>
-<!-- Bar Start -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-<!-- Bar End -->
-<!-- Statistics Item Four -->
 <div align="center">
-    <img 
-        src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdrustammiah&theme=2077"
-        height="180em" />
         <!-- Statistics Item Five -->
-    <img 
-        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdrustammiah&theme=2077"
-        height="180em" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdrustammiah&theme=2077"/>
 </div>
 <!-- Statistics End -->
 <!-- Bar Start -->
